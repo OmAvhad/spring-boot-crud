@@ -21,7 +21,7 @@ A simple CRUD REST API built with Spring Boot and H2 Database, designed to demon
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/OmAvhad/sprint-boot-crud.git
+   git clone https://github.com/OmAvhad/spring-boot-crud.git
     ```
 
 2. Open Project with Intellij
